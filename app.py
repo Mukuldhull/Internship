@@ -8,7 +8,7 @@ import pymysql
 
 # Establish a connection with your MySQL database
 connection = pymysql.connect(
-    host="localhost",
+    host="Mukul",
     user="root",
     password="mukuldhull",
     database="Invoice"
